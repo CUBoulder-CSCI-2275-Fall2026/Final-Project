@@ -204,8 +204,10 @@ Benchmark **at least four workloads** for your track (five for Track 3, as liste
 - Your project must be **ready by your assigned presentation time**: all required implementations and graph algorithms for your track must work, tests must pass, and required benchmarks and plots must be complete.
 - Include at least **three passing unit tests per class**, with additional cases as needed to cover the required operation behavior.
 - Have `docs/design.md` ready with each class's invariants, operation cost table, and explanation of operation mappings.
-- Deliver the five-minute demo described below and be prepared for individual questions about your code. A polished final report is not required at presentation time.
+- Deliver the five-minute demo described below and be prepared for individual questions about your code. This will be done in the form of interview grading. You will present your work to the TA and/or the professor.
+- A polished final report is not required at presentation time.
 - After presenting, you may clean up code, address feedback, and finish the report before the final deadline. This period is not additional time to complete missing core functionality or benchmark results.
+  
 
 ### Milestone 3 — Final Checkpoint (Due Dec 4, 2026, 11:59 p.m.)
 Submit your cleaned-up code, tests, benchmark driver and results, documentation, and final **2–4-page report, including plots**, by this deadline.
